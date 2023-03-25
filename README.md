@@ -39,3 +39,11 @@
 13.Write a program that uses a for loop to print the numbers 1 through 10 to the console.</br>
 
 14.Write a program that uses a while loop to prompt the user to enter a password. The loop should continue until the user enters the correct password.</br>
+
+<h1>Single-dimensional Arrays:</h1><br/>
+
+15.Write a program to find the sum of all elements in an array.</br>
+16.Write a program to find the largest and smallest elements in an array.</br>
+17.Write a program to sort an array in ascending order using bubble sort.</br>
+18.Write a program to reverse the elements of an array.</br>
+19.Write a program to count the number of even and odd numbers in an array.</br>
