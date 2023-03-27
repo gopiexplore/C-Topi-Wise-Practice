@@ -67,3 +67,9 @@
 31.Write a program to find the sum of array elements using pointers.</br>
 32.Write a program to pass an array to a function using pointers.</br>
 33.Write a program to copy the elements of one array to another using pointers.</br>
+<h1>Dynamic Memory Allocation:</h1></br>
+
+34.Write a program to allocate memory dynamically for an array.</br>
+35.Write a program to deallocate memory allocated dynamically for an array.</br>
+36.Write a program to find the largest element in an array allocated dynamically.</br>
+37.Write a program to copy the elements of one dynamically allocated array to another.</br>
