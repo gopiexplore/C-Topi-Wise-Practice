@@ -4,7 +4,7 @@
 
 2.Write a program that declares three float variables and assigns them values. Then, calculate and print the average of the three values.</br>
 
-<h2>Data types:<h2><br/>
+<h2>Data types:</h2><br/>
 
 3.Write a program that declares and initializes a char array with the value "hello world". Then, print the array to the console.</br>
 
@@ -47,3 +47,23 @@
 17.Write a program to sort an array in ascending order using bubble sort.</br>
 18.Write a program to reverse the elements of an array.</br>
 19.Write a program to count the number of even and odd numbers in an array.</br>
+<h1>Multi-dimensional Arrays:</h1><br/>
+
+20.Write a program to add two matrices.<br/>
+21.Write a program to find the transpose of a matrix.<br/>
+22.Write a program to multiply two matrices.<br/>
+23.Write a program to find the sum of the diagonal elements of a matrix.<br/>
+24.Write a program to find the largest element in each row of a matrix.<br/>
+<h1>String Manipulation Functions:</h1><br/>
+
+25.Write a program to concatenate two strings.<br/>
+26.Write a program to find the length of a string.<br/>
+27.Write a program to compare two strings.<br/>
+28.Write a program to convert a string to uppercase.<br/>
+29.Write a program to find the frequency of a character in a string.<br/>
+<h1>Pointers and Arrays:</h1><br/>
+
+30.Write a program to access array elements using pointers.</br>
+31.Write a program to find the sum of array elements using pointers.</br>
+32.Write a program to pass an array to a function using pointers.</br>
+33.Write a program to copy the elements of one array to another using pointers.</br>
