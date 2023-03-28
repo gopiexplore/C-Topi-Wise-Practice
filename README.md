@@ -73,3 +73,21 @@
 35.Write a program to deallocate memory allocated dynamically for an array.</br>
 36.Write a program to find the largest element in an array allocated dynamically.</br>
 37.Write a program to copy the elements of one dynamically allocated array to another.</br>
+<h1>Defining and Calling Functions:</h1></br>
+
+38.Write a program to find the factorial of a number using a function.</br>
+39.Write a program to find the sum of two numbers using a function.</br>
+40.Write a program to convert Celsius to Fahrenheit using a function.</br>
+
+<h1>Passing Arguments:</h1></br>
+
+41.Write a program to swap two numbers using call by value method.</br>
+42.Write a program to swap two numbers using call by reference method.</br>
+
+<h1>Function Prototypes:</h1></br>
+
+43.Write a program to find the sum of two numbers using function prototypes.</br>
+44.Write a program to find the area of a rectangle using function prototypes.</br>
+Write a program to check whether a number is prime or not using function prototypes.</br>
+<h1>Recursion:</h1></br>
+45.Write a program to find the factorial of a number using recursion.</br>
